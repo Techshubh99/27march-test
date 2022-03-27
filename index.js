@@ -6,7 +6,7 @@ var library = [
         author: "Suzanne Collins",
         title: "Mockingjay:The Final Book of The Hunger Games",
         readingStatus: false,
-    },
+    }
 ];
 
 for (var i = 0; i < library.length; i++) {
